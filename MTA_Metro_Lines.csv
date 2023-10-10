@@ -1,0 +1,16 @@
+﻿OBJECTID,NAME,STATUS,TYPE,LABEL,SHAPE_Length
+513,Blue Line,Existing,Rail,Metro A Line (Blue),0.332034521205447
+515,Orange Line,Existing,Bus,Metro G Line (Orange),0.358218967007052
+524,K Line,Existing,Rail,Metro K Line,0.0938754453885085
+526,K Line,Construction,Rail,Metro K Line,0.034949284476644
+528,Green Line,Existing,Rail,Metro C Line (Green),0.336354075807305
+530,Purple Line Ext 1,Construction,Rail,Metro D Line (Purple),0.0676980161310601
+531,Purple Line Ext 2,Construction,Rail,Metro D Line (Purple),0.0442671201313591
+532,Purple Line Ext 3,Construction,Rail,Metro D Line (Purple),0.0435537170372005
+533,Gold Line,Construction,Rail,Metro L Line (Gold),0.208126130296445
+534,Regional Connector,Construction,Rail,Regional Connector,0.0321716968651519
+925,Expo Line,Existing,Rail,Metro E Line (Expo),0.25832798606166
+926,Silver Line,Existing,Bus,Metro J Line (Silver),0.685289929262937
+927,Gold Line,Existing,Rail,Metro L Line (Gold),0.519100986740114
+929,Purple Line,Existing,Rail,Metro D Line (Purple),0.105506575134628
+930,Red Line,Existing,Rail,Metro B Line (Red),0.254514402807947
