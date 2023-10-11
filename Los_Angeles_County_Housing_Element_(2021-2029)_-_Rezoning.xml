@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Housing Element (2021 - 2029) - Rezoning</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>IntroductionThis metadata is broken up into different sections that provide both a high-level summary of the Housing Element and more detailed information about the data itself with links to other resources. The following is an excerpt from the Executive Summary from the Housing Element 2021 – 2029 document:The County of Los Angeles is required to ensure the availability of residential sites, at adequate densities and appropriate development standards, in the unincorporated Los Angeles County to accommodate its share of the regional housing need--also known as the Regional Housing Needs Allocation (RHNA). Unincorporated Los Angeles County has been assigned a RHNA of 90,052 units for the 2021-2029 Housing Element planning period, which is subdivided by level of affordability as follows:Extremely Low / Very Low (&amp;lt;50% AMI) - 25,648Lower (50 - 80% AMI) - 13,691Moderate (80 - 120% AMI) - 14,180Above Moderate (&amp;gt;120% AMI) - 36,533Total - 90,052NOTES - Pursuant to State law, the projected need of extremely low income households can be estimated at 50% of the very low income RHNA. Therefore, the County’s projected extremely low income can be estimated at 12,824 units. However, for the purpose of identifying adequate sites for RHNA, no separate accounting of sites for extremely low income households is required. AMI = Area Median IncomeDescriptionThe Sites Inventory (Appendix A) is comprised of vacant and underutilized sites within unincorporated Los Angeles County that are zoned at appropriate densities and development standards to facilitate housing development. The Sites Inventory was developed specifically for the County of Los Angeles, and has built-in features that filter sites based on specific criteria, including access to transit, protection from environmental hazards, and other criteria unique to unincorporated Los Angeles County. Other strategies used within the Sites Inventory analysis to accommodate the County’s assigned RHNA of 90,052 units include projected growth of ADUs, specific plan capacity, selected entitled projects, and capacity or planned development on County-owned sites within cities. This accounts for approximately 38 percent of the RHNA. The remaining 62 percent of the RHNA is accommodated by sites to be rezoned to accommodate higher density housing development (Appendix B).Caveats:This data is a snapshot in time, generally from the year 2021. It contains information about parcels, zoning and land use policy that may be outdated. The Department of Regional Planning will be keeping an internal tally of sites that get developed or rezoned to meet our RHNA goals, and we may, in the future, develop some public facing web applications or dashboards to show the progress. There may even be periodic updates to this GIS dataset as well, throughout this 8-year planning cycle.Update History:5/31/22 – Los Angeles County Board of Supervisors adopted the Housing Element on 5/17/22, and it received final certification from the State of California Department of Housing and Community Development (HCD) on 5/27/22. Data layer published on 5/31/22.Links to other resources:Department of Regional Planning Housing Page - Contains Housing Element and it's AppendicesHousing Element Update - Rezoning Program Story Map (English, and Spanish)Southern California Association of Governments (SCAG) - Regional Housing Needs AssessmentCalifornia Department of Housing and Community Development Housing Element pageField Descriptions:OBJECTID - Internal GIS IDAIN - Assessor Identification Number*SitusAddress - Site Address (Street and Number) from Assessor Data*Use Code - Existing Land Use Code (corresponds to Use Type and Use Description) from Assessor Data*Use Type - Existing Land Use Type from Assessor Data*Use Description - Existing Land Use Description from Assessor Data*Vacant / Nonvacant – Parcels that are vacant or non-vacant per the Use Code from the Assessor Data*Units Total - Total Existing Units from Assessor Data*Max Year - Maximum Year Built from Assessor Data*Supervisorial District (2021) - LA County Board of Supervisor DistrictSubmarket Area - Inclusionary Housing Submarket AreaPlanning Area - Planning Areas from the LA County Department of Regional Planning General Plan 2035Community Name - Unincorporated Community NamePlan Name - Land Use Plan Name from the LA County Department of Regional Planning (General Plan and Area / Community Plans)LUP - 1 - Land Use Policy from Dept. of Regional Planning - Primary Land Use Policy (in cases where there are more than one Land Use Policy category present)*LUP - 1 (% area) - Land Use Policy from Dept. of Regional Planning - Primary Land Use Policy (% of parcel covered in cases where there are more than one Land Use Policy category present)*LUP - 2 - Land Use Policy from Dept. of Regional Planning - Secondary Land Use Policy (in cases where there are more than one Land Use Policy category present)*LUP - 2 (% area) - Land Use Policy from Dept. of Regional Planning - Secondary Land Use Policy (% of parcel covered in cases where there are more than one Land Use Policy category present)*LUP - 3 - Land Use Policy from Dept. of Regional Planning - Tertiary Land Use Policy (in cases where there are more than one Land Use Policy category present)*LUP - 3 (% area) - Land Use Policy from Dept. of Regional Planning - Tertiary Land Use Policy (% of parcel covered in cases where there are more than one Land Use Policy category present)*Current LUP (Description) – This is a brief description of the land use category.  In the case of multiple land uses, this would be the land use category that covers the majority of the parcel*Current LUP (Min Density - net or gross) - Minimum density for this category (as net or gross) per the Land Use Plan for this areaCurrent LUP (Max Density - net or gross) - Maximum density for this category (as net or gross) per the Land Use Plan for this areaProposed LUP – Final – The proposed land use category to increase density.Proposed LUP (Description) – Brief description of the proposed land use policy.Prop. LUP – Final (Min Density) – Minimum density for the proposed land use category.Prop. LUP – Final (Max Density) – Maximum density for the proposed land use category.Zoning - 1 - Zoning from Dept. of Regional Planning - Primary Zone (in cases where there are more than one zone category present)*Zoning - 1 (% area) - Zoning from Dept. of Regional Planning - Primary Zone (% of parcel covered in cases where there are more than one zone category present)*Zoning - 2 - Zoning from Dept. of Regional Planning - Secondary Zone (in cases where there are more than one zone category present)*Zoning - 2 (% area) - Zoning from Dept. of Regional Planning - Secondary Zone (% of parcel covered in cases where there are more than one zone category present)*Zoning - 3 - Zoning from Dept. of Regional Planning - Tertiary Zone (in cases where there are more than one zone category present)*Zoning - 3 (% area) - Zoning from Dept. of Regional Planning - Tertiary Zone (% of parcel covered in cases where there are more than one zone category present)*Current Zoning (Description) - This is a brief description of the zoning category.  In the case of multiple zoning categories, this would be the zoning that covers the majority of the parcel*Proposed Zoning – Final – The proposed zoning category to increase density.Proposed Zoning (Description) – Brief description of the proposed zoning.Acres - Acreage of parcelMax Units Allowed - Total Proposed Land Use Policy UnitsRHNA Eligible? – Indicates whether the site is RHNA Eligible or not.  NOTE: This layer only shows those that are RHNA Eligible, but internal versions of this layer also show sites that were not-RHNA eligible, or removed during the development of this layer in 2020 – 2022.Very Low Income Capacity - Total capacity for the Very Low Income level as defined in the Housing ElementLow Income Capacity - Total capacity for the Low Income level as defined in the Housing ElementModerate Income Capacity - Total capacity for the Moderate Income level as defined in the Housing ElementAbove Moderate Income Capacity - Total capacity for the Above Moderate Income level as defined in the Housing ElementRealistic Capacity - Total Realistic Capacity of parcel (totaling all income levels).  Several factors went into this final calculation.  See the Housing Element (Links to Other Resources above) in the following locations - &amp;quot;Sites Inventory - Lower Income RHNA&amp;quot; (p. 223), and &amp;quot;Rezoning - Very Low / Low Income RHNA&amp;quot; (p231).Income Categories - Income Categories assigned to the parcel (relates to income capacity units)Lot Consolidation ID - Parcels with a unique identfier for consolidation potential (based on parcel ownership)Lot Consolidation Notes - Specific notes for consolidationConsolidation - Adjacent Parcels - All adjacent parcels that are tied to each lot consolidation IDsShape_Length - Perimeter (feet)Shape_Area - Area (sq feet)*As it existed in 2021</abstract>
+            <purpose>Sites in the Rezoning Program of the Housing Element where rezoning is needed to allow for higher density housing development as part of the Regional Housing Needs Assessment (RHNA).</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-118.412806</westbc>
+                <eastbc>-117.837532</eastbc>
+                <northbc>34.229495</northbc>
+                <southbc>33.737682</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Housing Element</themekey>
+                <themekey>2021-2029</themekey>
+                <themekey>6th Cycle</themekey>
+                <themekey>Rezoning</themekey>
+                <themekey>Department of Regional Planning</themekey>
+                <themekey>Los Angeles County</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The data herein is for informational purposes, and may not have been prepared for or be suitable for legal, engineering, or surveying intents. The County of Los Angeles reserves the right to change, restrict or discontinue access at any time. All users of the maps and data presented on https://lacounty.maps.arcgis.com or deriving from any LA County REST URLs, agree to the following Terms of Use as outlined on the County of LA Enterprise GIS (eGIS) Hub (https://egis-lacounty.hub.arcgis.com/pages/terms-of-use).</useconst>
+        <datacred>DRP, Assessor</datacred>
+        <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.7.1.11595</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>3441</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>PROJ_DRP_HOUSING_ELEMENT_2021_2029_REZONING</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ain</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SiteAddress</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>usecode</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>usetype</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>usedescription</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>unitstotal</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Plan_Name</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Comm_Name</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>MaxYear</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Submarket_Area</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LUP1</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PctLUPArea1</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LUP2</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PctLUPArea2</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LUP3</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PctLUPArea3</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LUP_MinDens</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LUP_MaxDens</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Zoning1</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PctZngArea1</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Zoning2</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PctZngArea2</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Zoning3</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PctZngArea3</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>P_Zoning_FINAL</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>P_LUP_FINAL</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>P_LUP_FINAL_MinDens</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>P_LUP_FINAL_MaxDens</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Acres</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Max_Units_Allowed_Rounded</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Realistic_Capacity</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>RHNA_Eligible</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LUP_Description</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>P_LUP_Description</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Zoning_Description</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>P_Zoning_Description</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Capacity_Inc_Very_Low</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Capacity_Inc_Low</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Capacity_Inc_Mod</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Capacity_Inc_Abv_Mod</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Vacant_Use</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>plng_area</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Consolidation_ID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Consolidation_Adj_APNs</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Income_Categories</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SupDist2021</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape.STArea()</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape.STLength()</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20220531</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
